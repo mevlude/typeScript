@@ -1,5 +1,5 @@
 //string
-var myName = "Mike";
+var myName = "Mike S";
 var myName2 = "Mike";
 //number
 var myAge = 27;
